@@ -16,7 +16,8 @@ Building an attack map to track real-time hacker activity
 
 <p align="center">
 Launch the utility: <br/>
-![image alt]([image_url](https://github.com/OrthAdonis/Azure-Sentinel/blob/bbdbf2abd1059bc39bba3ff4c3c968cc1edb65a8/Screenshot%202025-03-02%20224706.png))
+![Image](https://github.com/user-attachments/assets/ff50265f-a09e-4fb3-bd74-f5dc6ffdaf3c)
+
 <br />
 <br />
 Select the disk:  <br/>
