@@ -14,5 +14,6 @@ building an attack map to track real-time hacker activity
 
 <h2>Program walk-through:</h2>
 
-I set up a virtual machine using Microsoft Azure. From there, I exposed the machine to live traffic. Attackers from all over the world began attempts to hack the virtual machine. I logged this data live and used a map to ping where the attacks were coming from around the world.
+I set up a virtual machine using Microsoft Azure. From there, I exposed the machine to live traffic. Attackers from all over the world began attempts to hack the virtual machine. I logged this data live and used a map to ping where the attacks were coming from around the world. Each screenshot shows a different step in the process, documenting the lab across each one. eifjcbrgjceulurinkvfvvlfuutdffehcttnvkjhdiud
+
 
