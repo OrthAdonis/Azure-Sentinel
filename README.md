@@ -3,12 +3,12 @@
 
 The project covers:
 Configuring log analytics workspace,
-Forwarding logs and integrating with Sentinel,
-Querying failed login attempts and visualizing attack sources,
-Building an attack map to track real-time hacker activity
+forwarding logs and integrating with Sentinel,
+querying failed login attempts and visualizing attack sources,
+building an attack map to track real-time hacker activity
 
 
-<h2>Environments Used </h2>
+<h2>Environbents Used </h2>
 
 - <b>Windows 10</b> (21H2)
 
