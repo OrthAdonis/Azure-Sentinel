@@ -16,17 +16,3 @@ building an attack map to track real-time hacker activity
 
 <p align="center">
 Launch the utility: <br/>
-![Image](https://github.com/user-attachments/assets/ff50265f-a09e-4fb3-bd74-f5dc6ffdaf3c)
-
-
-Select the disk:  <br/>
-[<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>]
-<br />
-<br />
-
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
