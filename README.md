@@ -1,10 +1,10 @@
 <h1> LIVE CYBER ATTACKS</h1>
 
 
-I did:
-Configuring Log Analytics Workspace
-Forwarding logs and integrating with Sentinel
-Querying failed login attempts and visualizing attack sources
+The project covers:
+Configuring log analytics workspace,
+Forwarding logs and integrating with Sentinel,
+Querying failed login attempts and visualizing attack sources,
 Building an attack map to track real-time hacker activity
 
 
