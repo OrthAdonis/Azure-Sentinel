@@ -16,11 +16,11 @@ Building an attack map to track real-time hacker activity
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image alt]([image_url](https://github.com/OrthAdonis/Azure-Sentinel/blob/bbdbf2abd1059bc39bba3ff4c3c968cc1edb65a8/Screenshot%202025-03-02%20224706.png))
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>]
 <br />
 <br />
 Enter the number of passes: <br/>
